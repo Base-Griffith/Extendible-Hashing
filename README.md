@@ -1,2 +1,2 @@
-# ExtendableHashing-mod2
+Simulation of Extindible Hashing
  
